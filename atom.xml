@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BigKing</title>
+  
+  <subtitle>大王啦啦啦</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://bigking.wang/"/>
+  <updated>2020-09-01T14:56:38.000Z</updated>
+  <id>http://bigking.wang/</id>
+  
+  <author>
+    <name>dawn</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>遇见大王</title>
+    <link href="http://bigking.wang/2020/09/01/meet-king/"/>
+    <id>http://bigking.wang/2020/09/01/meet-king/</id>
+    <published>2020-09-01T14:23:19.000Z</published>
+    <updated>2020-09-01T14:56:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年8月30日早上10点左右初见大王。</p><p>一袭黑裙，齐脖短发，金色眼镜，瘦瘦小小。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2020年8月30日早上10点左右初见大王。&lt;/p&gt;
+&lt;p&gt;一袭黑裙，齐脖短发，金色眼镜，瘦瘦小小。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="bigking" scheme="http://bigking.wang/categories/bigking/"/>
+    
+    
+      <category term="bigking" scheme="http://bigking.wang/tags/bigking/"/>
+    
+  </entry>
+  
+</feed>
